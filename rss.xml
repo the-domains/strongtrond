@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Strongtrond]]></title>
         <description><![CDATA[Strongtrond]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/strongtrond/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Dec 2015 17:41:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Dec 2015 17:47:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/strongtrond/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Helligdagspils]]></title>
+            <description><![CDATA[<article><h1>Helligdagspils</h1><p>Når det kommer til helligdager må man alltid ha en plan for pilsen! Dette er min plan. http://strongtrond.com https://www.facebook.com/strongtrondsuperstar Audio fra teknoaxe: http://www.youtube.com/teknoaxe</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/13a9afeabec2b89454e3b43302934997ea2845e3.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=uTKKYegQBHQ</link>
+            <guid isPermaLink="false">fb51a9eb-d267-4ac7-907d-45c556765a4d</guid>
+            <pubDate>Tue, 08 Dec 2015 17:47:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8ad17d9-8774-41e1-9f90-114237caaa64.png">]]></description>
-            <link>undefined7d04a353-4741-446f-975c-40fad9ac7a26/index.html</link>
+            <link>https://thegrid.ai/strongtrond/7d04a353-4741-446f-975c-40fad9ac7a26/index.html</link>
             <guid isPermaLink="false">7d04a353-4741-446f-975c-40fad9ac7a26</guid>
             <pubDate>Tue, 08 Dec 2015 17:41:50 GMT</pubDate>
         </item>
