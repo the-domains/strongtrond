@@ -2,6 +2,7 @@ name: Strongtrond
 favicon: null
 layout_spectrum: 0.5837650981266052
 typography_spectrum: 0.1859885163139552
+title: Strongtrond
 cta:
   domain: null
   bucket: null
