@@ -1,7 +1,7 @@
 name: Strongtrond
 favicon: null
-layout_spectrum: 0.5837650981266052
-typography_spectrum: 0.1859885163139552
+layout_spectrum: 1
+typography_spectrum: 0.28834
 title: Strongtrond
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.4678817766252905
+    - '#000000'
+    - '#ffffff'
+    - '#313131'
+    - '#a1a1a1'
+    - '#717171'
+  brandStrength: 0.375
   lightness: 0.6276490255258977
-  saturation: 0.9919756751041859
+  saturation: 0.625
   rhythmicContrast: 0.5136551395989954
 purpose: []
